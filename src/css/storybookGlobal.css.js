@@ -1,6 +1,6 @@
 import { createGlobalStyle } from 'styled-components';
-import HelveticaNeueBold from './fonts/HelveticaNeue-Medium.ttf';
-import HelveticaNeueRegular from './fonts/HelveticaNeue-Regular.ttf';
+import HelveticaNeueBold from '../fonts/HelveticaNeue-Medium.ttf';
+import HelveticaNeueRegular from '../fonts/HelveticaNeue-Regular.ttf';
 
 // Styled Container
 export const GlobalStyles = createGlobalStyle`
