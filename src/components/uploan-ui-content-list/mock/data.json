@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "content": "Join our speaker Dr. Maria Theresita Escandor on Tuesday, May 19 at 4 pm via Livestorm as she talks about How to Manage the Mental Health of Your Teams. Register here!",
+      "id": "1",
+      "image": "https://uploan.ph/wp-content/uploads/2020/05/Blog-and-Reg-page-Web-2-1-1-768x432.jpg",
+      "title": "How to Manage the Mental Health of Your Teams (Free Live Webinar)"
+    },
+    {
+      "content": "Join our speaker Zarah Hernaez on Tuesday, May 12 at 4 pm via Livestorm for a free live webinar about Managing Stress and Anxiety in the time of COVID-19. Register here!",
+      "id": "2",
+      "image": "https://uploan.ph/wp-content/uploads/2020/05/webinar-infinitcare-1-768x432.jpg",
+      "title": "Managing Stress and Anxiety in the time of COVID-19 (Free Live Webinar)"
+    },
+    {
+      "content": "In this inaugural episode of the Level Up! Podcast, guest Fleur breaks down tips on developing a wellness program tailored to your employees’ needs.",
+      "id": "3",
+      "image": "https://uploan.ph/wp-content/uploads/2020/04/Blog-Header-1-768x352.jpg",
+      "title": "Developing a Wellness Program with Fleur Saguid"
+    }
+  ],
+  "status": 200
+}
