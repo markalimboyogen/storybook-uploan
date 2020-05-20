@@ -1,2 +1,13 @@
 # storybook-uploan
-Sample storybook setup for Uploan.
+
+## Installation
+
+```js
+npm install
+```
+
+## Running
+
+```js
+npm run storybook
+```
